@@ -51,9 +51,9 @@ if __name__ == "__main__":
 | Project                                                                             | Description                                                              |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [📚 vocabulary-vault](https://github.com/sandeepdanda/vocabulary-vault)             | CLI tool that turns reading into a vocabulary RPG with spaced repetition |
-| [🧠 reinforcement_learning](https://github.com/sandeepdanda/reinforcement_learning) | MDP environments, tabular methods, and Q-learning for stock trading      |
-| [🔍 DL](https://github.com/sandeepdanda/DL)                                         | Fake news detection using deep learning and NLP                          |
-| [💻 Leet_Journey](https://github.com/sandeepdanda/Leet_Journey)                     | LeetCode solutions — arrays, hashing, and more                           |
+| [🧠 reinforcement-learning](https://github.com/sandeepdanda/reinforcement-learning) | MDP environments, tabular methods, and Q-learning for stock trading      |
+| [🔍 fake-news-detection](https://github.com/sandeepdanda/fake-news-detection)       | Fake news detection using deep learning and NLP                          |
+| [💻 leetcode-solutions](https://github.com/sandeepdanda/leetcode-solutions)         | LeetCode solutions — arrays, hashing, and more                           |
 
 ---
 
