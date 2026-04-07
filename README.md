@@ -48,12 +48,14 @@ if __name__ == "__main__":
 
 ### 🔭 Projects
 
-| Project                                                                             | Description                                                              |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| [📚 vocabulary-vault](https://github.com/sandeepdanda/vocabulary-vault)             | CLI tool that turns reading into a vocabulary RPG with spaced repetition |
-| [🧠 reinforcement-learning](https://github.com/sandeepdanda/reinforcement-learning) | MDP environments, tabular methods, and Q-learning for stock trading      |
-| [🔍 fake-news-detection](https://github.com/sandeepdanda/fake-news-detection)       | Fake news detection using deep learning and NLP                          |
-| [💻 leetcode-solutions](https://github.com/sandeepdanda/leetcode-solutions)         | LeetCode solutions — arrays, hashing, and more                           |
+| Project                                                                             | Description                                                                 |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [🏋️ wellness-pro](https://github.com/sandeepdanda/wellness-pro)                     | Full-stack health club membership system — Spring Boot, React, AWS, MySQL   |
+| [🎬 movie-database](https://github.com/sandeepdanda/movie-database)                 | Movie DB with 600K+ records — ER modeling, SQL, Python, Power BI dashboards |
+| [📚 vocabulary-vault](https://github.com/sandeepdanda/vocabulary-vault)             | CLI tool that turns reading into a vocabulary RPG with spaced repetition    |
+| [🧠 reinforcement-learning](https://github.com/sandeepdanda/reinforcement-learning) | MDP environments, tabular methods, and Q-learning for stock trading         |
+| [🔍 fake-news-detection](https://github.com/sandeepdanda/fake-news-detection)       | Fake news detection using deep learning and NLP                             |
+| [💻 leetcode-solutions](https://github.com/sandeepdanda/leetcode-solutions)         | LeetCode solutions — arrays, hashing, and more                              |
 
 ---
 
@@ -72,6 +74,7 @@ if __name__ == "__main__":
   <img src="https://img.shields.io/badge/-Redis-000?style=flat&logo=redis" />
   <img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-Power_BI-000?style=flat&logo=powerbi" />
 </p>
 
 ---
